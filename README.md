@@ -38,16 +38,20 @@
 
 ## 🌐 Otros perfiles
 
-<p align="center">
+
   <a href="https://www.linkedin.com/in/antonio-palomo-ca%C3%B1ete/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-antonio--palomo--cañete-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://tryhackme.com/dashboard" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Badge"/>
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-antonio--palomo--cañete-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" 
+         width="320" height="200"/>
+  </a><br>
+
+## 🌐 Badges 
+
+   <img src="https://tryhackme-badges.s3.amazonaws.com/panominon.png" alt="Your Image Badge" /><br>
+
   <a href="https://www.credly.com/users/antonio-palomo/badges#credly" target="_blank">
-    <img src="https://img.shields.io/badge/Credly-Certificaciones-orange?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badge"/>
+    <img src="https://img.shields.io/badge/Credly-Certificaciones-orange?style=for-the-badge&logo=credly&logoColor=white" 
+         alt="Credly Badge"
+         width="320" height="200" />
   </a>
-</p>
 
 
