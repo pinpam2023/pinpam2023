@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">¡Hola! 👋 Soy Juan, un explorador del código y las ideas</h1>
 
-<!--
-**pinpam2023/pinpam2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1000&q=80" width="100%" alt="Portada de bienvenida"/>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <em>💡 Desarrollador full-stack | 🧩 Amante de los retos | 🎯 Enfocado en soluciones</em>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologías y herramientas
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
+</p>
+
+---
+
+## 🚀 Sobre mí
+
+- 🧑‍💻 Actualmente trabajando en proyectos de desarrollo web con tecnologías modernas
+- 📚 Aprendiendo más sobre arquitecturas escalables y pentesting
+- 💬 Me encanta compartir con
